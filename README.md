@@ -1,2 +1,3 @@
 # Transformation_Matrices_and_Image_Manipulations
-LA Lab: Transformation Matrices and Image Manipulations
+
+This lab focuses on transformation matrices and their impact on image manipulation.
